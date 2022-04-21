@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sharing-caring
+- 👋 Hi, I’m a believer of @sharing-caring
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate for helping me with concepts that I don't understand
